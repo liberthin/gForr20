@@ -1,0 +1,41 @@
+{
+  "squadName" : "vengadores",
+  "homeTown" : "Midtown Manhattan",
+  "formed" : 2009,
+  "secretBase" : "Torre Stark",
+  "active" : true,
+  "members" : [
+    {
+      "name" : "hiron man",
+      "age" : 29,
+      "secretIdentity" : "tony stark",
+      "powers" : [
+        "armaduras",
+        "filantropo",
+        "hedgfhdfh"
+      ]
+    },
+    {
+      "name" : "Madame Uppercut",
+      "age" : 39,
+      "secretIdentity" : "Jane Wilson",
+      "powers" : [
+        "Million tonne punch",
+        "Damage resistance",
+        "Superhuman reflexes"
+      ]
+    },
+    {
+      "name" : "Eternal Flame",
+      "age" : 1000000,
+      "secretIdentity" : "Unknown",
+      "powers" : [
+        "Immortality",
+        "Heat Immunity",
+        "Inferno",
+        "Teleportation",
+        "Interdimensional travel"
+      ]
+    }
+  ]
+}
